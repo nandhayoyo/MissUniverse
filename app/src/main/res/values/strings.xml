@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MissUniverse</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+    <string name="bio_ximena">Jimena "Ximena" Navarrete Rosete adalah seorang model asal Meksiko dan pemenang kontes kecantikan Miss Universe 2010. Sebelumnya, dia meraih gelar Nuestra Belleza México 2009.</string>
+    <string name="lahir">lahir</string>
+    <string name="lahir_ximena">22 Februari 1988</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="tingg_ximena">1,74 M</string>
+    <string name="pasangan">Pasangan</string>
+    <string name="pasangan_ximena">Juan Carlos V</string>
+    <string name="fav">fav</string>
+    <string name="detail">Detail</string>
+</resources>
